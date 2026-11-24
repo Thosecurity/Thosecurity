@@ -1,42 +1,60 @@
 # Nguyễn Đức Thọ
 
-Student at Ho Chi Minh City University of Technology (HCMUT), aiming to become a cybersecurity engineer. Interested in web application security and database security.
+**Student at Ho Chi Minh City University of Technology (HCMUT) | Aspiring Cybersecurity Engineer | AI & Machine Learning Enthusiast**
 
 ## About Me
 
-I am a student at HCMUT with a background in competitive Physics at Vung Tau High School. Years of Olympiad training taught me to keep asking "why does it work this way?" and to solve problems one step at a time. I bring that mindset to programming.
+I am a student at Ho Chi Minh City University of Technology (HCMUT), passionate about cybersecurity, artificial intelligence, and software development.
 
-My goal is to become a cybersecurity engineer. To build a solid foundation, I start with how web applications store and process data, because understanding how a system is built is the first step to knowing where it can be attacked and how to defend it.
+With a background in competitive Physics at Vung Tau High School, I have developed strong analytical thinking, problem-solving skills, and a habit of continuously asking "why does it work this way?"
 
-Alongside that, I study web security to understand why vulnerabilities appear and how to fix them. I practice only in legal lab environments such as DVWA, OWASP Juice Shop, and TryHackMe, and I always respect the ethical principles of the security community.
+My primary goal is to become a cybersecurity engineer, with particular interests in web application security, database security, and AI-driven security solutions.
 
-I am always open to discussion and eager to learn from the community.
+Alongside cybersecurity, I am exploring Artificial Intelligence and Machine Learning, particularly their applications in security, anomaly detection, and intelligent threat analysis. I am also interested in understanding the security challenges of modern AI systems, including LLM security and adversarial machine learning.
+
+I practice cybersecurity in legal lab environments such as DVWA, OWASP Juice Shop, and TryHackMe, while continuously strengthening my foundations in programming, databases, networking, and AI.
+
+I am always open to discussion, collaboration, and learning from the developer and security communities.
+
+## Areas of Interest
+
+- **Cybersecurity:** Web Application Security, Database Security, Network Security
+- **Artificial Intelligence:** Machine Learning, Deep Learning, Generative AI
+- **AI for Cybersecurity:** Anomaly Detection, Intrusion Detection, Intelligent Threat Analysis
+- **AI Security:** LLM Security, Prompt Injection, Adversarial Machine Learning
+- **Software Engineering:** Backend Development, Database Design, Secure Software Development
 
 ## Academic Achievements
 
 - First Prize, Provincial Excellent Student Competition in Physics (Grade 12)
-- Second Prize, Olympic competition (Grade 11 and Grade 10)
+- Second Prize, Olympic Competition (Grade 11 and Grade 10)
 - Vallet Scholarship
 
 ## Skills
 
-| Area | Technologies |
+| Area | Technologies / Knowledge |
 |---|---|
-| Databases | SQL, MySQL |
+| Databases | SQL, MySQL, Relational Database Design |
 | Programming | C, C++, Java, Python |
 | Web Security | OWASP Top 10, DVWA, OWASP Juice Shop |
 | Security Tools | Burp Suite, Nmap, Wireshark |
+| Artificial Intelligence | Machine Learning, Deep Learning Fundamentals |
+| AI Security | LLM Security, Adversarial Machine Learning (Exploring) |
 | Operating Systems | Linux (Ubuntu, Kali) |
 | Networking | TCP/IP, HTTP, DNS |
 | Development Tools | Git, GitHub, VS Code |
-| Foundations | Mathematics, Physics, analytical thinking, self-learning |
+| Foundations | Mathematics, Physics, Analytical Thinking |
 
 ## Currently Learning
 
-- Relational database design and SQL query optimization
-- Common web vulnerabilities from the OWASP Top 10 (practiced in lab environments)
-- Computer networking fundamentals and Linux
-- Beginner-friendly CTF competitions and labs
+- Relational Database Design and SQL Query Optimization
+- Web Application Vulnerabilities based on OWASP Top 10
+- Machine Learning Fundamentals and Python for AI
+- Deep Learning and Neural Network Fundamentals
+- AI Applications in Cybersecurity
+- LLM Security and Emerging AI Vulnerabilities
+- Computer Networking and Linux
+- Beginner-friendly CTF Competitions and Security Labs
 
 ## Contact
 
